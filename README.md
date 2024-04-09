@@ -1,5 +1,3 @@
-# Number-Guessing-Game
-
 # Number Guessing Game
 
 This project implements a simple number guessing game in Java. The game generates a random number within a specified range and prompts the user to guess the number. It provides feedback on whether the guess is correct, too high, or too low. The user can play multiple rounds and their score is based on the number of attempts taken or rounds won.
